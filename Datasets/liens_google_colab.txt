@@ -1,0 +1,3 @@
+Lien Google Colab de traitement et analyse du dataset "THE ULTIMATE CARS 2024" --> https://colab.research.google.com/drive/1HHZf2DFwpRUaUjFAw-LuwYMrPFm-Sx-d?usp=sharing
+
+
